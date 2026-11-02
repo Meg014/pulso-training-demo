@@ -83,8 +83,8 @@ export const site = {
 };
 export const photos = {
   hero: {
-    src: "/images/strength.jpg",
-    alt: "Atleta se preparando para um levantamento com barra em uma academia",
+    src: "/images/hero-model.png",
+    alt: "Atleta com halter e braço flexionado, em pose de treinamento de força",
   },
   gym: {
     src: "/images/club.jpg",
