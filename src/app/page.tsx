@@ -54,6 +54,9 @@ export default function Home() {
                   className="hero-photo"
                 />
               </div>
+              <span className="hero-photo-label" aria-hidden="true">
+                FORÇA EM CADA MOVIMENTO.
+              </span>
             </div>
           </div>
         </section>

@@ -825,16 +825,16 @@ h2 {
 }
 .hero-photo-frame {
   position: absolute;
-  inset: 0 -10px 0 -45px;
+  inset: 0 0 32px 0;
   overflow: hidden;
-  z-index: 1;
+  clip-path: polygon(17% 0, 100% 0, 100% 100%, 0 100%);
 }
 .hero-photo {
-  object-fit: contain;
-  object-position: center bottom;
+  object-fit: cover;
+  object-position: 57% center;
+  filter: grayscale(1);
 }
 .hero-photo-label {
-  z-index: 2;
   position: absolute;
   bottom: 10px;
   right: 10px;
@@ -978,7 +978,7 @@ h2 {
     inset: 60px 0 0;
   }
   .hero-photo-frame {
-    inset: 0 12px;
+    inset: 0 20px 26px;
   }
   .hero-photo-label {
     right: 25px;

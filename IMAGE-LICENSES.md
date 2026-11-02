@@ -4,13 +4,13 @@ Imagens ilustrativas obtidas do CDN oficial do Unsplash em 02/11/2026, sob a [Un
 
 | Arquivo                      | Fonte original / identificador                                                | Uso                                  |
 | ---------------------------- | ----------------------------------------------------------------------------- | ------------------------------------ |
-| `public/images/strength.jpg` | https://images.unsplash.com/photo-1517836357463-d25dfeac3438 (Victor Freitas) | Hero anterior, arquivo preservado                 |
+| `public/images/strength.jpg` | https://images.unsplash.com/photo-1517836357463-d25dfeac3438 (Victor Freitas) | Hero atual, atleta e barra                 |
 | `public/images/club.jpg`     | https://images.unsplash.com/photo-1534438327276-14e5300c3a48                  | Galeria, halteres e espaço de treino |
 | `public/images/weights.jpg`  | https://images.unsplash.com/photo-1571902943202-507ec2618e8f                  | Galeria, equipamentos e janelas      |
 
 Derivados redimensionados via parâmetros `auto=format`, `fit=crop`, `w` e `q` do CDN. Tratamento monocromático e sobreposição escura feitos com CSS. Wordmark, símbolo e arte de Open Graph são SVGs originais deste projeto.
 
-## Modelo do Hero
+## Modelo anterior (fora de uso)
 
 `public/images/hero-model.png`: recorte preparado a partir da imagem fornecida pelo usuário nesta conversa, usando a ferramenta integrada Imagegen. PNG com transparência real, exibido em cores. Este arquivo não é uma imagem do Unsplash; a origem e a licença da fotografia enviada não foram informadas. Não representa um profissional ou cliente da PULSO.
 
